@@ -1,5 +1,7 @@
 # How do you code rock, paper, and scissors in Python 3 in 2022?
 
+The .py file is [here in my github repository](https://github.com/chayanmitra/python.learn/blob/main/Rock%2C%20Paper%2C%20and%20Scissors.py)
+
 ### Options and rules are introduced as lists and dictionaries simultaneously
 
 ```
